@@ -1,0 +1,21 @@
+{
+  "name": "aws.3.693.0.bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.693.0",
+    "@aws-sdk/client-s3": "^3.693.0",
+    "@aws-sdk/credential-providers": "^3.693.0",
+    "@aws-sdk/lib-dynamodb": "^3.693.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "typescript": "^5.6.3"
+  }
+}
